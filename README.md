@@ -1,4 +1,4 @@
-# Docker LaTeX
+# LaTeX Docker Builder
 
 Docker container that contains a LaTeX environment to build LaTeX documents.
 

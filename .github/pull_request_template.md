@@ -6,7 +6,7 @@
 
 ## Major Release Only
 
-- [ ] Create version branch _vX_ where _X_ is major version
+- [ ] Create version branch _X_ where _X_ is major version
 
 ## Always
 
